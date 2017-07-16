@@ -43,8 +43,8 @@
       ]
     }
   },
-  "engines": {6.11.1
-    "node": "0.10.x"
+  "engines": {
+    "node": "6.11.1"
   },
   "dependencies": {
     "async": "^0.9.0",
